@@ -1,1 +1,1 @@
-Nao gostei da explicação do git, precisei ver aula de outra pessoa
+curso show
